@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "https://razornez.github.io/csb-9288jp/static/css/main.f29ae65a.chunk.css",
-    "main.js": "https://razornez.github.io/csb-9288jp/static/js/main.33754364.chunk.js",
-    "main.js.map": "https://razornez.github.io/csb-9288jp/static/js/main.33754364.chunk.js.map",
+    "main.js": "https://razornez.github.io/csb-9288jp/static/js/main.eb6dbb54.chunk.js",
+    "main.js.map": "https://razornez.github.io/csb-9288jp/static/js/main.eb6dbb54.chunk.js.map",
     "runtime-main.js": "https://razornez.github.io/csb-9288jp/static/js/runtime-main.edf60e0b.js",
     "runtime-main.js.map": "https://razornez.github.io/csb-9288jp/static/js/runtime-main.edf60e0b.js.map",
     "static/js/2.4ad66184.chunk.js": "https://razornez.github.io/csb-9288jp/static/js/2.4ad66184.chunk.js",
@@ -15,6 +15,6 @@
     "static/js/runtime-main.edf60e0b.js",
     "static/js/2.4ad66184.chunk.js",
     "static/css/main.f29ae65a.chunk.css",
-    "static/js/main.33754364.chunk.js"
+    "static/js/main.eb6dbb54.chunk.js"
   ]
 }
